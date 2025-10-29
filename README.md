@@ -1,10 +1,10 @@
-# [Screenshotit_bot](https://tx.me/screenshotit_bot)
+# [Screenshotit_bot](https://tx.me/screen_shot1_bot)
 
 > Telegram Bot For Screenshot Generation.
 
 ## Description
 
-An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@screenshotit_bot](https://tx.me/screenshotit_bot "Screenshot Generator Bot").
+An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@screenshotit_bot](https://tx.me/screen_shot1_bot "Screenshot Generator Bot").
 
 ## Installation Guide
 
@@ -108,7 +108,7 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
+You can contact me [@Sudhsrshan_T](https://tx.me/Sudharshan_T).
 
 ## Thanks
 Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
